@@ -41,12 +41,20 @@ Senior Embedded Systems Validation Architect with 4 years of experience in real-
 ## 💻 Featured Projects
 
 ### 📊 [Local LLM Inference Performance & Hardware Benchmark](https://github.com/omkar-jadhav-embedded-systems/Local-LLM-Inference-Benchmark)
-* **What it is:** A benchmarking suite to evaluate LLM performance (TPS, Latency, RAM/CPU usage) on local and embedded hardware across various quantization levels (GGUF, 4-bit, 8-bit).
+* **What it is:** A benchmarking suite to evaluate LLM performance (TPS, Latency, RAM/CPU usage) on local and embedded hardware across various temperature values.
 * **Tech Stack:** `Python`, `llama.cpp`, `Ollama`, `System Monitoring`
 
 ### 🔒 [Privacy-First RAG using Local LLMs](https://github.com/omkar-jadhav-embedded-systems/Traditional-RAG-using-Local-LLM-Ollama)
 * **What it is:** A fully offline Retrieval-Augmented Generation (RAG) pipeline for secure interactions with private PDFs, keeping all embeddings and computations on-device.
 * **Tech Stack:** `Ollama`, `Vector Databases`, `Python`, `NLP`
+
+### 🚁 [Dynamic UAV Wireless Charging using IRS (M.Tech Thesis)](https://github.com/omkar-jadhav-embedded-systems/UAV-Wireless-Charging-with-IRS)
+* **What it is:** Academic research at IIT Guwahati investigating mathematical models and simulations for dynamically charging drones mid-flight using Intelligent Reflecting Surfaces (IRS) to mitigate NLoS outages.
+* **Tech Stack:** `MATLAB/Simulink`, `Mathematical Modeling`, `RF Systems`, `Wireless Power Transfer`
+
+### 🏎️ [ATV Data Acquisition & Telemetry System](https://github.com/omkar-jadhav-embedded-systems/ATV-Data-Acquisition-and-Telemetry)
+* **What it is:** End-to-end telemetry system, custom PCBs, and sensor networks designed for live-tuning CVT, suspension, and wireless safety systems on Baja SAE off-road vehicles.
+* **Tech Stack:** `Embedded C (Arduino/MSP430)`, `CAN Bus`, `Custom PCB (Proteus)`, `Hardware Sensors`
 
 ---
 ## 🎓 Education
