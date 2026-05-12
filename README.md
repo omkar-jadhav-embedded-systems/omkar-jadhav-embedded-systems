@@ -73,7 +73,6 @@ Senior Embedded Systems Validation Architect with 4 years of experience in real-
 ---
 
 ## 📬 Contact
-* **Mobile:** +91 8600591814
 * **Email:** omkar6589@gmail.com
 * **Location:** Bengaluru, India
 * **LinkedIn:** [OMKAR JADHAV](https://www.linkedin.com/in/omkar-jadhav-embedded-systems-engineer/)
