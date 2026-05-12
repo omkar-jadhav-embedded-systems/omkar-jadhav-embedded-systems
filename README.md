@@ -48,7 +48,7 @@ Senior Embedded Systems Validation Architect with 4 years of experience in real-
 * **What it is:** A fully offline Retrieval-Augmented Generation (RAG) pipeline for secure interactions with private PDFs, keeping all embeddings and computations on-device.
 * **Tech Stack:** `Ollama`, `Vector Databases`, `Python`, `NLP`
 
-### 🚁 [Dynamic UAV Wireless Charging using IRS (M.Tech Thesis)](https://github.com/omkar-jadhav-embedded-systems/UAV-Wireless-Charging-with-IRS)
+### 🚁 [Dynamic UAV Wireless Charging using IRS (M.Tech Thesis)](https://github.com/omkar-jadhav-embedded-systems/UAV-Wireless-Charging-IRS)
 * **What it is:** Academic research at IIT Guwahati investigating mathematical models and simulations for dynamically charging drones mid-flight using Intelligent Reflecting Surfaces (IRS) to mitigate NLoS outages.
 * **Tech Stack:** `MATLAB/Simulink`, `Mathematical Modeling`, `RF Systems`, `Wireless Power Transfer`
 
