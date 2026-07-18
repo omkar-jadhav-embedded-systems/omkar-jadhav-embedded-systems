@@ -40,6 +40,10 @@ Senior Embedded Systems Validation Architect with 4 years of experience in real-
 
 ## 💻 Featured Projects
 
+### 🔋 [TinyML BMS Anomaly Detection: Intelligent Edge AI](https://github.com/omkar-jadhav-embedded-systems/TinyML-BMS-Anomaly-Detection)
+* **What it is:** An end-to-end TinyML pipeline for real-time hardware anomaly detection in Battery Energy Storage Systems (BESS) and Electric Vehicles (EVs). Deploys a **Quantization-Aware Autoencoder** on resource-constrained microcontrollers using **TensorFlow Lite INT8**, reducing the model size from **~100 KB to ~4 KB (>95% compression)** while enabling deterministic, low-latency, fully offline edge inference. Includes an industrial validation dashboard, automated model artifact generation (`.tflite`, `.h`, `.hex`), and a C++ inference engine with DSP-based signal filtering for safety-critical embedded applications.
+* **Tech Stack:** `TensorFlow/Keras`, `TensorFlow Model Optimization (QAT)`, `TensorFlow Lite (INT8)`, `TinyML`, `Python`, `Streamlit`, `C/C++`, `DSP`, `Pandas`, `NumPy`
+
 ### 🔋[EdgeBMS-TinyML: Real-Time Battery State Estimation](https://github.com/omkar-jadhav-embedded-systems/EdgeBMS-TinyML)
 * **What it is:** An ultra-low-footprint (~6.2 KB) TinyML pipeline running a deep neural network on-device to estimate battery cell State of Charge (SoC) and State of Health (SoH) simultaneously with 91.5% optimized TFLite accuracy. Auto-generates a bare-metal C++ header array (model.h) for direct microcontroller deployment.
 * **Tech Stack:** `TensorFlow`, `tfmot (Quantization-Aware Training)`, `TFLite (INT8/Float32)`, `Python`, `C/C++`, `Pandas`
