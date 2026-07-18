@@ -43,7 +43,7 @@ Senior Embedded Systems Validation Architect with 4 years of experience in real-
 ### 🔋[EdgeBMS-TinyML: Real-Time Battery State Estimation](https://github.com/omkar-jadhav-embedded-systems/EdgeBMS-TinyML)
 * **What it is:** An ultra-low-footprint (~6.2 KB) TinyML pipeline running a deep neural network on-device to estimate battery cell State of Charge (SoC) and State of Health (SoH) simultaneously with 91.5% optimized TFLite accuracy. Auto-generates a bare-metal C++ header array (model.h) for direct microcontroller deployment.
 * **Tech Stack:** `TensorFlow`, `tfmot (Quantization-Aware Training)`, `TFLite (INT8/Float32)`, `Python`, `C/C++`, `Pandas`
-* 
+  
 ### 📊 [Local LLM Inference Performance & Hardware Benchmark](https://github.com/omkar-jadhav-embedded-systems/Local-LLM-Inference-Benchmark)
 * **What it is:** A benchmarking suite to evaluate LLM performance (TPS, Latency, RAM/CPU usage) on local and embedded hardware across various temperature values.
 * **Tech Stack:** `Python`, `llama.cpp`, `Ollama`, `System Monitoring`
