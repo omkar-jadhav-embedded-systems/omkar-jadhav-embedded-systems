@@ -15,7 +15,7 @@ Senior Embedded Systems Validation Architect with 4 years of experience in real-
 | **Modeling** | MATLAB/Simulink (MiL/SiL/HiL), FMI/FMU, Typhoon Schematic Editor |
 | **Protocols** | CAN, LIN, FlexRay, MQTT, Ethernet, MODBUS |
 | **Diagnostics** | CANoe, INCA, TestRail, SCADA |
-| **AI Integration** | Ollama, Open-source LLMs (Mistral), RAG, TinyML |
+| **AI Integration** | Ollama, Open-source LLMs, RAG, TinyML, EdgeAI, TensorFlow lite |
 | **Standards** | ASPICE, ISO 26262, Agile/V-Model |
 
 ---
